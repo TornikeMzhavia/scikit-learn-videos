@@ -1,3 +1,5 @@
 scikit-learn
 notebook
 matplotlib
+pandas
+seaborn
